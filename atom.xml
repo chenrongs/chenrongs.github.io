@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RSGG</title>
+  
+  <subtitle>从简</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-31T10:09:44.635Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>陈荣生</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/07/31/hello-world/"/>
+    <id>http://yoursite.com/2019/07/31/hello-world/</id>
+    <published>2019-07-31T08:11:43.172Z</published>
+    <updated>2019-07-31T10:09:44.635Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
